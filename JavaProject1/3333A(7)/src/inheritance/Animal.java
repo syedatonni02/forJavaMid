@@ -5,7 +5,7 @@ public class Animal {
         System.out.println("Animal constructor");
     }
     void eat(){
-        System.out.println("Animal Eating");
+        System.out.println("Animal eating");
     }
 
 }
