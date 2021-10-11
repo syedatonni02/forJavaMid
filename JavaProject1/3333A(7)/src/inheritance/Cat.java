@@ -6,7 +6,7 @@ public class Cat extends Animal{
         System.out.println("Cat constructor");
     }
     void eat(){
-        System.out.println("Cat Eating");
+        System.out.println("Cat eating");
         //super.eat();
     }
 }
