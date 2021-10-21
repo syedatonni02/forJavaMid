@@ -19,7 +19,7 @@ public class Test {
         o1.setName(name);
         o1.setId(id);
         o1.setAge(age);
-        System.out.println(o1.getName()+" "+o1.getName()+" "+ o1.getAge());
+        System.out.println(o1.getName()+" "+o1.getId()+" "+ o1.getAge());
 
 
         System.out.print(" Enter Name: ");
@@ -35,7 +35,7 @@ public class Test {
         o2.setName(name);
         o2.setId(id);
         o2.setAge(age);
-        System.out.println(o2.getName()+" "+o2.getName()+" "+ o2.getAge());
+        System.out.println(o2.getName()+" "+o2.getId()+" "+ o2.getAge());
 
 
 
